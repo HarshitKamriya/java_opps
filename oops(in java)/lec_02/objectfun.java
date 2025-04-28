@@ -12,3 +12,4 @@ public class objectfun {
         f2 = temp;
     }
 }
+
